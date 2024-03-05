@@ -1,0 +1,10 @@
+`Axios` adalah sebuah library JavaScript yang digunakan untuk melakukan HTTP requests dari node.js atau XMLHttpRequests dari browser, yang menerima promise-based response pattern. Axios mempermudah untuk mengirim asynchronous HTTP request ke REST endpoints dan melakukan CRUD operations (CREATE, READ, UPDATE, DELETE).
+
+Beberapa fitur utama Axios adalah:
+
+1. Dapat digunakan di browser dan Node.js.
+2. Mendukung Promise API sehingga mempermudah penanganan operasi asynchronous.
+3. Memungkinkan request dan interception sehingga memudahkan kustomisasi.
+4. Menangani transformasi data yang dikirim dan diterima.
+5. Mampu membatalkan request dan memiliki mekanisme untuk melindungi terhadap CSRF.
+6. Mendukung internationalization dengan automatic JSON data transformation.
